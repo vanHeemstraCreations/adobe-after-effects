@@ -5,6 +5,8 @@ Based on "After Effects: The Ultimate Organization Guide" at https://www.youtube
 
 Based on "After Effects: How to make your Preview/Render faster" at https://www.youtube.com/watch?v=5jJNhJz27H4
 
+Based on "10 Ways to Get Faster in After Effects | Workflow Tips & Techniques" at https://www.youtube.com/watch?v=whFa347JtDE
+
 ## 100 - Introduction
 
 See [README.md](./100/README.md)
