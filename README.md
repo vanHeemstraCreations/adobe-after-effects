@@ -7,6 +7,8 @@ Based on "After Effects: How to make your Preview/Render faster" at https://www.
 
 Based on "10 Ways to Get Faster in After Effects | Workflow Tips & Techniques" at https://www.youtube.com/watch?v=whFa347JtDE
 
+Based on "Get Your Shit Together" at https://justinmcclure.com/gyst
+
 ## 100 - Introduction
 
 See [README.md](./100/README.md)
