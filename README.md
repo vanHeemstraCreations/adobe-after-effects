@@ -1,7 +1,7 @@
-repository-name
-# Repository Name
+adobe-after-effects
+# Adobe After Effects
 
-Based on "ABC" at https://www.abc.com/
+Based on "After Effects: The Ultimate Organization Guide" at https://www.youtube.com/watch?v=CZoq2BQ1fIQ
 
 ## 100 - Introduction
 
