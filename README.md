@@ -3,6 +3,8 @@ adobe-after-effects
 
 Based on "After Effects: The Ultimate Organization Guide" at https://www.youtube.com/watch?v=CZoq2BQ1fIQ
 
+Based on "After Effects: How to make your Preview/Render faster" at https://www.youtube.com/watch?v=5jJNhJz27H4
+
 ## 100 - Introduction
 
 See [README.md](./100/README.md)
